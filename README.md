@@ -4,7 +4,7 @@
 
 ### I'm a FullStack Web and a Game Developer living in 🇧🇷 and working at [Compass Uol](https://compass.uol/).
 
-![Snake animation](https://github.com/brunodyas/perfil/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/raw/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
