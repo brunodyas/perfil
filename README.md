@@ -1,8 +1,8 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor)
+
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### I'm a FullStack Web and a Game Developer living in 🇧🇷 and working at [Compass Uol](https://compass.uol/).
+### I'm a FullStack Web and a Game Developer living in Salvador-Ba and working at [Compass Uol](https://compass.uol/).
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/raw/output/github-contribution-grid-snake.svg)
 
